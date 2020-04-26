@@ -1,0 +1,18 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Amount on account/build/
+/Problems/First, second, third/build/
+/Problems/From 0 to 9/build/
+/Problems/From 0 to 9/out/
+/Problems/From 0 to 9/out/production/classes/
+/Problems/Hello, Kotlin/build/
+/Problems/String processor/out/
+/Problems/String processor/out/production/classes/
+/Problems/The eternal truth/build/
+/Problems/The Hello World program/build/
+/Problems/The result of a game in Tic-Tac-Toe/build/
+/Problems/We need to learn Kotlin/build/
+/Problems/Your name/build/
